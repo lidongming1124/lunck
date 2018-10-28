@@ -1,4 +1,2 @@
-# lunck
-git 日记
-dfsadf
+# lunck  学习git
    
